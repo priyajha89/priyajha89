@@ -1,5 +1,15 @@
-💫 Hi 👋, I'm Priya Jha
-A passionate Cloud Engineer || Designer
+🌟 Hello! 👋 I'm Priya Jha
+A passionate B.Tech CSE student at Lovely Professional University, specializing in Cloud Computing and certified as a Microsoft Certified: Azure Administrator Associate.
+
+🚀 My interests span across cloud technologies, UI/UX design, and web development, where I strive to combine technical expertise with creativity. With a solid foundation in Azure, AWS, and cloud platforms, along with hands-on knowledge of HTML, CSS, and responsive web design, I aim to build scalable, efficient, and user-centered solutions.
+
+💡 My journey is driven by curiosity, continuous learning, and problem-solving. I enjoy tackling challenges, designing intuitive user experiences, and exploring how technology can transform ideas into impactful outcomes.
+
+✨ Alongside my technical skills, I bring strong problem-solving, adaptability, and critical thinking that help me thrive in dynamic environments. With excellent knowledge of UI/UX design principles, I’m passionate about creating interfaces that are not only functional but also meaningful and engaging.
+
+🏸 Outside of academics, I enjoy playing badminton and learning from diverse experiences that enrich my perspective.
+
+🔗 Aspiring Cloud Engineer & DevOps Enthusiast, I am eager to connect, collaborate, and contribute to innovative projects in Cloud Computing, UI/UX, and Software Development
 
 Email Me 👉 ✉️ priyajha8919@gmail.com 😊😊
 
